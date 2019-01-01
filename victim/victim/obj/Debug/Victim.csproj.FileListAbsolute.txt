@@ -1,0 +1,14 @@
+C:\Users\sanke\Desktop\DDoS\victim\victim\bin\Debug\victim.exe.config
+C:\Users\sanke\Desktop\DDoS\victim\victim\bin\Debug\victim.exe
+C:\Users\sanke\Desktop\DDoS\victim\victim\bin\Debug\victim.pdb
+C:\Users\sanke\Desktop\DDoS\victim\victim\obj\Debug\Victim.csprojAssemblyReference.cache
+C:\Users\sanke\Desktop\DDoS\victim\victim\obj\Debug\Victim.csproj.CoreCompileInputs.cache
+C:\Users\sanke\Desktop\DDoS\victim\victim\obj\Debug\victim.exe
+C:\Users\sanke\Desktop\DDoS\victim\victim\obj\Debug\victim.pdb
+C:\Users\אני\Desktop\DDoS\victim\victim\bin\Debug\victim.exe.config
+C:\Users\אני\Desktop\DDoS\victim\victim\bin\Debug\victim.exe
+C:\Users\אני\Desktop\DDoS\victim\victim\bin\Debug\victim.pdb
+C:\Users\אני\Desktop\DDoS\victim\victim\obj\Debug\Victim.csprojAssemblyReference.cache
+C:\Users\אני\Desktop\DDoS\victim\victim\obj\Debug\Victim.csproj.CoreCompileInputs.cache
+C:\Users\אני\Desktop\DDoS\victim\victim\obj\Debug\victim.exe
+C:\Users\אני\Desktop\DDoS\victim\victim\obj\Debug\victim.pdb
